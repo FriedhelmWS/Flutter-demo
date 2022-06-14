@@ -1,0 +1,68 @@
+{
+  "emperor": "HAB",
+  "electors": [
+    {
+      "name": "Austria",
+      "tag": "HAB",
+      "government_rank": "Archduchy",
+      "description": "A.E.I.O.U.",
+      "vote": "SPA"
+    },
+    {
+      "name": "Brandenburg",
+      "tag": "BRA",
+      "government_rank": "Margraviate",
+      "description": "Dream of Prussia",
+      "vote": "TUR"
+    },
+    {
+      "name": "Saxony",
+      "tag": "SAX",
+      "government_rank": "Electorate",
+      "description": "Wonderful China (years later)",
+      "vote": "THU"
+    },
+    {
+      "name": "Cologue",
+      "tag": "KOL",
+      "government_rank": "Archbishopric",
+      "description": "Can this church even finish?",
+      "vote": "HAB"
+    },
+    {
+      "name": "Mainz",
+      "tag": "MAI",
+      "government_rank": "Archbishopric",
+      "description": "Archicancellarius per Germaniam",
+      "vote": "HAB"
+    },
+    {
+      "name": "Trier",
+      "tag": "TRI",
+      "government_rank": "Archbishopric",
+      "description": "Crusaders",
+      "vote": "HAB"
+    },
+    {
+      "name": "The Palatinate",
+      "tag": "PAL",
+      "government_rank": "Electoral Palatinate",
+      "description": "Are we not Bavarians?",
+      "vote": "HAB"
+    }
+  ],
+  "free_cities": [
+    { "name": "Aachen", "tag": "AAC" },
+    { "name": "Bremen", "tag": "BRE" },
+    { "name": "Dortmund", "tag": "RVA" },
+    { "name": "Frankfurt", "tag": "FRN" },
+    { "name": "Lucca", "tag": "LUC" },
+    { "name": "Hamburg", "tag": "HAM" },
+    { "name": "Cologne", "tag": "KOL" },
+    { "name": "Memmingen", "tag": "MEM" },
+    { "name": "Nuremberg", "tag": "NUM" },
+    { "name": "Lübeck", "tag": "HSA" },
+    { "name": "Dithmarschen", "tag": "DTT" },
+    { "name": "Ulm", "tag": "ULM" }
+  ]
+}
